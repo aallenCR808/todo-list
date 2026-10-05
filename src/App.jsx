@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  let todoList = [
+  const todoList = [
     { id: 1, title: "Read" },
     { id: 2, title: "Work" },
     { id: 3, title: "Sleep" },
